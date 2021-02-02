@@ -3,7 +3,7 @@
 */
 
 .calculator {
-    width: 295px;
+    width: 260px;
     height: 340px;
     background-color: #2a1f3a;
     margin: 0 auto;
@@ -26,8 +26,8 @@ form.cal-form input.dispaly {
 }
 .button-line input {
     cursor: pointer;
-    width: 57px;
-    margin-left: 10px;
+    width: 50px;
+    margin-left: 8px;
     background-color: #8a8a8a;
     border-color: #8a8a8a;
     outline: none;
